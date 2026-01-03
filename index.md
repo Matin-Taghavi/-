@@ -11,6 +11,10 @@ layout: default
     font-family: 'Vazirmatn', sans-serif !important; 
   }
 
+   html {
+    font-size: 24px !important;
+  }
+
   .main-content, .page-header, .site-header, h1, h2, h3, h4, p, li, a {
     font-family: 'Vazirmatn', sans-serif !important;
     direction: rtl;
@@ -19,10 +23,6 @@ layout: default
 
   .page-header {
     text-align: center;
-  }
-
-  html {
-    font-size: 24px !important;
   }
 
   .main-content, .page-header {
