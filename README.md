@@ -51,8 +51,7 @@
 ---
 
 **راهنمای تصویری ثبت‌نام و ورود به دلتاچت**
-
-![][image2]
+https://github.com/Matin-Taghavi/-/blob/88649aebb346f202880e17822c8a9eabc1fb59f8/Deltachat.jpg
 
 # بخش دوم: ابزارهای ارتباطی آفلاین (Mesh Networks)
 
